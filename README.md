@@ -8,3 +8,5 @@ iOS(Swift): dotacity/ios
 Android(Kotlin): dotacity/android    
     
 不会Kotlin，本来想用Java比较熟悉，算了，干就完了，奥利给
+Flutter小用了一下，没有想象中的那么好，
+可能之后iOS/Android一些无关紧要的部分练习一下Flutter
