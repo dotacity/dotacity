@@ -11,3 +11,7 @@ Android(Kotlin): dotacity/dotacity_client_android
 Flutter 小用了一下，没有想象中的那么好，
 可能之后 iOS/Android 一些无关紧要的部分练习一下 Flutter     
 Swift UI 用了支持不了低版本，Jetpack Compose 还没稳定，暂时不用
+
+---
+
+**还在开发，目前在开发 Andoird 端，等v1完成了开源 **
